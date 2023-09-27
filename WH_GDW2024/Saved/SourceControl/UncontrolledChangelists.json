@@ -138,7 +138,14 @@
 				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/__ExternalActors__/StarterScene/4/L1/MPR7KI3IOJOEDNAQU0V6N3.uasset",
 				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/__ExternalActors__/StarterScene/C/LU/06R1I7C59ZL1I7JFA4G6HA.uasset",
 				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/__ExternalActors__/StarterScene/8/46/MV1S152GQLEONILJY74FID.uasset",
-				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/StarterScene.umap"
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/StarterScene.umap",
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/Blueprints/Player/BP_FPCharacter.uasset",
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/__ExternalActors__/StarterScene/C/D2/QD8DV7NUNJFR0LUJHVQPQ0.uasset",
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/Blueprints/Player/IMC_Default.uasset",
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/Blueprints/Player/InputActions/IA_Move.uasset",
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/Blueprints/Player/InputActions/IA_Jump.uasset",
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/Blueprints/Player/InputActions/IA_Look.uasset",
+				"D:/GDW 5/WH_GDW2024/WH_GDW2024/Content/Blueprints/Player/InputActions/IA_Attack.uasset"
 			]
 		}
 	]
