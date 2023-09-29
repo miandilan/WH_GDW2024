@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GDW 5\\WH_GDW2024\\WH_GDW2024\\Source\\WH_GDW2024\\WH_GDW2024.Build.cs",
+		"D:\\GDW 5\\WH_GDW2024\\WH_GDW2024\\Source\\WH_GDW2024.Target.cs",
+		"D:\\GDW 5\\WH_GDW2024\\WH_GDW2024\\Source\\WH_GDW2024Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.0"
+}
